@@ -1,0 +1,129 @@
+@media(max-width:767px){
+
+    .hide_mb{
+        display: none;
+    }
+    .hide_dsk{
+        display: block;
+    }
+
+    .phone {
+        position: static;
+        width: 50%;
+        margin: 0px auto 15px auto;
+    }
+.content {
+    text-align: center;
+    padding-bottom: 40px;
+}
+.height {
+    
+    flex-direction: column-reverse;
+}
+
+.content p {
+    color: rgb(153, 153, 153);
+    margin-bottom: 30px;
+}
+.navbar-nav{
+    text-align: center;
+    margin-top: 30px;
+}
+.nav-link{
+    display: inline;
+}
+.nav-item {
+    
+    margin-bottom: 10px;
+}   
+
+.feature-item {
+    margin-bottom: 30px;
+}
+
+.phone2{
+    width: 70%;
+    margin: 0 auto 30px;
+}
+.slide_item p {
+    
+    text-align: center;
+}
+.client {
+    display: flex;
+    justify-content: center;
+}
+
+.client_details p {
+    
+    text-align: start !important;
+}
+
+.ad_section h2{
+    text-align: center;
+    margin-bottom: 25px;
+}
+.align{
+    text-align: center !important;
+}
+
+.price_table {
+    
+    margin-bottom: 30px;
+
+}
+
+.contact_us {
+    
+    padding: 50px 0px 450px;
+    
+
+}
+
+.text-center {
+    margin-bottom: 20px;
+}
+
+.form_box {
+    padding: 45px 22px;
+    width: 75%;
+}
+
+.map iframe {
+   
+    height: 275px;
+}
+
+
+
+
+}
+
+
+
+@media(max-width:575px){
+
+    .phone2{
+        width: 50%;
+    }
+
+
+
+
+
+
+}
+
+@media(max-width:375px){
+    .content h1 {  
+        font-size: 22px;
+      }
+}
+
+@media(max-width:320px){
+
+.btn-view {
+    margin: 20px 0px 0px 0px;
+}
+
+}
